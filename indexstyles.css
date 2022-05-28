@@ -23,7 +23,7 @@
     margin: 5%;
     border-radius: 25px;
     background: aliceblue;
-    padding: 20px 3vw;
+    padding: 1vw 3vw;
 }
 
 .projectChildren {
@@ -52,7 +52,7 @@
     color: black;
     border-radius: 1vw;
     background: white;
-    padding: 15px;
+    padding: 1vw;
     transition: all 0.3s ease 0s;
     margin: 1vw;
     font-size: 1.5vw;
@@ -66,8 +66,8 @@
 .projectTools {
     display: flex;
     align-items: center;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 1vw;
+    margin-bottom: 2vw;
 }
 
 .projectImage {
