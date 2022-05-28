@@ -30,7 +30,7 @@ li, a {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 30px 10%;
+    padding-top: 3%;
 }
 
 
@@ -48,7 +48,7 @@ li, a {
 
 .nav_links li a {
     color: black;
-    font-size: x-large;
+    font-size: 2vw;
     transition: all 0.3s ease 0s;
 }
 
