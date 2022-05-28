@@ -22,23 +22,19 @@ li, a {
     text-decoration: none;
 }
 
+
 .headerDiv {
-    z-index: 2;
-    position: fixed;
     top: 0;
     width: 100%;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding-top: 3%;
+    padding: 30px 10%;
 }
 
 
 .nav_links {
     list-style: none;
-    background-color: white;
-    padding: 10px;
-    border-radius: 15px;
 }
 
 .nav_links li {
@@ -47,13 +43,13 @@ li, a {
 }
 
 .nav_links li a {
-    color: black;
-    font-size: 2vw;
+    color: white;
+    font-size: x-large;
     transition: all 0.3s ease 0s;
 }
 
 .nav_links a:hover {
-    color: #4666FF;
+    color: black;
 }
 
 .creditLink {
