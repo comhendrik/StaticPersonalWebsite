@@ -25,7 +25,7 @@
     margin: 5%;
     text-align: center;
     color: white;
-    font-size: 5vw;
+    font-size: 3vw;
 }
 
 .grid-container {
@@ -40,7 +40,7 @@
 .grid-item {
     white-space: nowrap;
     margin: 15px 2vw;
-    font-size: 3vw;
+    font-size: 2vw;
     text-align: left;
     color: white;
 }
