@@ -115,10 +115,9 @@
   border-radius: 50%;
   position: absolute;
 }
-.stack-top{
+.material-icons.stack-top{
     z-index: 1;
-    height: 50%;
-    width: auto;
+    font-size: 7vw;
 }
 
 .downloadButton {
