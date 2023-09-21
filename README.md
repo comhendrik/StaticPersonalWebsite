@@ -8,19 +8,13 @@ I have built this website because I wanted to learn more in HTML and CSS and to 
 
 Images:<br/>
 <p float="left">
-<img src="/Images/LoginPage.png" width="140" height="auto">
-<img src="/Images/HomeView.png" width="140" height="auto">
-<img src="/Images/Searchbar.png" width="140" height="auto">
-<img src="/Images/ItemDetail.png" width="140" height="auto">
-<img src="/Images/ItemDetailButton.png" width="140" height="auto">
-<img src="/Images/FavoritesPage.png" width="140" height="auto">
-<img src="/Images/FavoritesAddToCart.png" width="140" height="auto">
-<img src="/Images/CartOverview.png" width="140" height="auto">
-<img src="/Images/PaymentOverview.png" width="140" height="auto">
-<img src="/Images/StripePayment.png" width="140" height="auto">
-<img src="/Images/Order.png" width="140" height="auto">
-<img src="/Images/OrderOverview.png" width="140" height="auto">
-<img src="/Images/Support.png" width="140" height="auto">
+<img src="/ExampleImages/Start.png" width="140" height="auto">
+<img src="/ExampleImages/ExampleProject.png" width="140" height="auto">
+<img src="/ExampleImages/About.png" width="140" height="auto">
+<img src="/ExampleImages/Info.png" width="140" height="auto">
+<img src="/ExampleImages/CV.png" width="140" height="auto">
+<img src="/ExampleImages/DownloadCV.png" width="140" height="auto">
+
 </p>
 
 Download (all commands are marked with ' '):<br/>
