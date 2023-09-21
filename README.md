@@ -8,12 +8,12 @@ I have built this website because I wanted to learn more in HTML and CSS and to 
 
 Images:<br/>
 <p float="left">
-<img src="/ExampleImages/Start.png" width="140" height="auto">
-<img src="/ExampleImages/ExampleProject.png" width="140" height="auto">
-<img src="/ExampleImages/About.png" width="140" height="auto">
-<img src="/ExampleImages/Info.png" width="140" height="auto">
-<img src="/ExampleImages/CV.png" width="140" height="auto">
-<img src="/ExampleImages/DownloadCV.png" width="140" height="auto">
+<img src="/ExampleImages/Start.png" width="250" height="auto">
+<img src="/ExampleImages/ExampleProject.png" width="250" height="auto">
+<img src="/ExampleImages/About.png" width="250" height="auto">
+<img src="/ExampleImages/Info.png" width="250" height="auto">
+<img src="/ExampleImages/CV.png" width="250" height="auto">
+<img src="/ExampleImages/DownloadCV.png" width="250" height="auto">
 
 </p>
 
